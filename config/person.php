@@ -1,17 +1,17 @@
 <?php
 return [
     'employers' => [
-        ['Name' => 'Employer 1', 'Website' => 'www.employer1.com', 'Email' => 'employer1@example.com'],
-        ['Name' => 'Employer 2', 'Website' => 'www.employer2.com', 'Email' => 'employer2@example.com'],
-        ['Name' => 'Employer 3', 'Website' => 'www.employer3.com', 'Email' => 'employer3@example.com'],
-        ['Name' => 'Employer 4', 'Website' => 'www.employer4.com', 'Email' => 'employer4@example.com'],
-        ['Name' => 'Employer 5', 'Website' => 'www.employer5.com', 'Email' => 'employer5@example.com'],
+        ['name' => 'Employer 1', 'website' => 'www.employer1.com', 'email' => 'employer1@example.com'],
+        ['name' => 'Employer 2', 'website' => 'www.employer2.com', 'email' => 'employer2@example.com'],
+        ['name' => 'Employer 3', 'website' => 'www.employer3.com', 'email' => 'employer3@example.com'],
+        ['name' => 'Employer 4', 'website' => 'www.employer4.com', 'email' => 'employer4@example.com'],
+        ['name' => 'Employer 5', 'website' => 'www.employer5.com', 'email' => 'employer5@example.com'],
     ],
     'candidates' => [
-        ['First Name' => 'Candidate', 'Last Name' => 'last 1', 'Email' => 'candidate1@example.com', 'Phone' => '123-456-7890'],
-        ['First Name' => 'Candidate', 'Last Name' => 'last 2', 'Email' => 'candidate2@example.com', 'Phone' => '987-654-3210'],
-        ['First Name' => 'Candidate', 'Last Name' => 'last 3', 'Email' => 'candidate3@example.com', 'Phone' => '555-123-4567'],
-        ['First Name' => 'Candidate', 'Last Name' => 'last 4', 'Email' => 'candidate4@example.com', 'Phone' => '111-222-3333'],
-        ['First Name' => 'Candidate', 'Last Name' => 'last 5', 'Email' => 'candidate5@example.com', 'Phone' => '444-555-6666'],
+        ['first_name' => 'Candidate', 'last_name' => 'Last 1', 'email' => 'candidate1@example.com', 'phone' => '123-456-7890'],
+        ['first_name' => 'Candidate', 'last_name' => 'Last 2', 'email' => 'candidate2@example.com', 'phone' => '987-654-3210'],
+        ['first_name' => 'Candidate', 'last_name' => 'Last 3', 'email' => 'candidate3@example.com', 'phone' => '555-123-4567'],
+        ['first_name' => 'Candidate', 'last_name' => 'Last 4', 'email' => 'candidate4@example.com', 'phone' => '111-222-3333'],
+        ['first_name' => 'Candidate', 'last_name' => 'Last 5', 'email' => 'candidate5@example.com', 'phone' => '444-555-6666'],
     ]
 ];

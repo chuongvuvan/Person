@@ -23,6 +23,6 @@ class Employer
 
     public function __toString(): string
     {
-        return "Employer: {$this->data['Name']}";
+        return "Employer: {$this->data['name']}";
     }
 }

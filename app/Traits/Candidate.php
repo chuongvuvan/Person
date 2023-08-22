@@ -23,6 +23,6 @@ class Candidate
 
     public function __toString(): string
     {
-        return "Candidate: {$this->data['First Name']} {$this->data['Last Name']}";
+        return "Candidate: {$this->data['first_name']} {$this->data['last_name']}";
     }
 }
